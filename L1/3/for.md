@@ -23,8 +23,9 @@
 
 Описание проблемы:
 
-`https://go.dev/blog/loopvar-preview`
+https://go.dev/blog/loopvar-preview
 
+https://github.com/golang/go/wiki/CommonMistakes 
 
 
 -----------------------------------------------------
